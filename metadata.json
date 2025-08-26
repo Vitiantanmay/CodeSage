@@ -1,0 +1,5 @@
+{
+  "name": "CodeSage AI Debugger",
+  "description": "An AI-powered code playground. Write and run code, view the output, and get AI-driven explanations, fixes, and optimizations.",
+  "requestFramePermissions": []
+}
